@@ -1,9 +1,9 @@
 ---
-title: T16 Maps Farming
+title: PoE1 T16 Maps Farming
 author: kC0pter
 date: 2024-11-26 17:08:00 +0800
 categories: [Strategies,Atlas]
-tags: ["3.25",strats,t16,maps]     # TAG names should always be lowercase
+tags: [poe1,"3.25",strats,t16,maps]     # TAG names should always be lowercase
 ---
 
 Farming 8 mod T16 and T17 maps. Averages at around 0.7 to 0.9 T17s per map.  
